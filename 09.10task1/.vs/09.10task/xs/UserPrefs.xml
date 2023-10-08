@@ -1,14 +1,28 @@
-﻿<Properties StartupConfiguration="{B3B38884-22A6-4E9F-AECD-CC1C67E55580}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{2F13B0A6-348B-46F0-BE5E-AC8B3E4A5030}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.09.10task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="09.10task/Models/Student.cs">
+    <Files>
+      <File FileName="09.10task/Program.cs" Line="14" Column="1" />
+      <File FileName="09.10task/Models/Student.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="09.10task" expanded="True">
+            <Node name="09.10task" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Student.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="09.10task/Program.cs">
-    <Files>
-      <File FileName="09.10task/Program.cs" Line="32" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.09.10task PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

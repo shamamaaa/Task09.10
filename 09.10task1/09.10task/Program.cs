@@ -1,30 +1,15 @@
-﻿namespace _09._10task;
-internal class Program
+﻿using _09._10task.Models;
+
+namespace _09._10task;
+class Program
 {
     static void Main(string[] args)
     {
-        Person person1 = new Person("samama", "sabir",19);
-
-        person1.GetInfo();
+        Student student1 = new Student("Shamama", "Guliyeva", "AB104", 31);
+        student1.GetInfo();
+        student1.CheckGraduation();
+        student1.GetDiplomDegree();
     }
 }
 
-class Person
-{
-    public string Name;
-    public string Surname;
-    public byte Age;
 
-    public void GetInfo()
-    {
-
-        Console.WriteLine($"{Name} {Surname} {Age}");
-    }
-
-    public Person(string sname, string surname, byte age)
-    {
-        Name = sname;
-        Surname = surname;
-        Age = age;
-    }
-}
