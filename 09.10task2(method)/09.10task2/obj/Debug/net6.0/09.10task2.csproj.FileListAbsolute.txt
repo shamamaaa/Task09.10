@@ -1,0 +1,15 @@
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/bin/Debug/net6.0/09.10task2
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/bin/Debug/net6.0/09.10task2.deps.json
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/bin/Debug/net6.0/09.10task2.runtimeconfig.json
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/bin/Debug/net6.0/09.10task2.dll
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/bin/Debug/net6.0/09.10task2.pdb
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/09.10task2.csproj.AssemblyReference.cache
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/09.10task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/09.10task2.AssemblyInfoInputs.cache
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/09.10task2.AssemblyInfo.cs
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/09.10task2.csproj.CoreCompileInputs.cache
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/09.10task2.dll
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/refint/09.10task2.dll
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/09.10task2.pdb
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/09.10task2.genruntimeconfig.cache
+/Users/shamamaguliyeva/Desktop/09.10task2(method)/09.10task2/obj/Debug/net6.0/ref/09.10task2.dll

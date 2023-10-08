@@ -1,0 +1,15 @@
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/bin/Debug/net6.0/06.10Practice
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/bin/Debug/net6.0/06.10Practice.deps.json
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/bin/Debug/net6.0/06.10Practice.runtimeconfig.json
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/bin/Debug/net6.0/06.10Practice.dll
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/bin/Debug/net6.0/06.10Practice.pdb
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/06.10Practice.csproj.AssemblyReference.cache
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/06.10Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/06.10Practice.AssemblyInfoInputs.cache
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/06.10Practice.AssemblyInfo.cs
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/06.10Practice.csproj.CoreCompileInputs.cache
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/06.10Practice.dll
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/refint/06.10Practice.dll
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/06.10Practice.pdb
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/06.10Practice.genruntimeconfig.cache
+/Users/shamamaguliyeva/Projects/06.10Practice/06.10Practice/obj/Debug/net6.0/ref/06.10Practice.dll
