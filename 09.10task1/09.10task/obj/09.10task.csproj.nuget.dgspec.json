@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shamamaguliyeva/Desktop/09.10task/09.10task/09.10task.csproj": {}
+    "/Users/shamamaguliyeva/Desktop/09.10task(1,2,3,4)/09.10task1/09.10task/09.10task.csproj": {}
   },
   "projects": {
-    "/Users/shamamaguliyeva/Desktop/09.10task/09.10task/09.10task.csproj": {
+    "/Users/shamamaguliyeva/Desktop/09.10task(1,2,3,4)/09.10task1/09.10task/09.10task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shamamaguliyeva/Desktop/09.10task/09.10task/09.10task.csproj",
+        "projectUniqueName": "/Users/shamamaguliyeva/Desktop/09.10task(1,2,3,4)/09.10task1/09.10task/09.10task.csproj",
         "projectName": "09.10task",
-        "projectPath": "/Users/shamamaguliyeva/Desktop/09.10task/09.10task/09.10task.csproj",
+        "projectPath": "/Users/shamamaguliyeva/Desktop/09.10task(1,2,3,4)/09.10task1/09.10task/09.10task.csproj",
         "packagesPath": "/Users/shamamaguliyeva/.nuget/packages/",
-        "outputPath": "/Users/shamamaguliyeva/Desktop/09.10task/09.10task/obj/",
+        "outputPath": "/Users/shamamaguliyeva/Desktop/09.10task(1,2,3,4)/09.10task1/09.10task/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shamamaguliyeva/.nuget/NuGet/NuGet.Config"
